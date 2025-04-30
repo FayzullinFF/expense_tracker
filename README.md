@@ -13,4 +13,3 @@ Expense Tracker is a Flutter-based application designed to help users manage and
 
 - **Flutter**: For building the cross-platform UI.
 - **Dart**: The programming language powering the app.
-- **Material Design**: Ensures a consistent and modern user interface.
